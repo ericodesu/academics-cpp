@@ -385,7 +385,7 @@ int main(void){
 				printf("Protótipo de disitivo que ajudará no uso de elevadores!\n\nEmpresa cliente é a ThyssenKrupp qual acredita que a tecnologia da Informação e dinâmica, por isso, veem com bons olhos incrementos ao projeto, desde que agreguem valor.\n\nEste protótipo visa garantir mais segurança aos seus usuários!");                                                                                                		
 				printf("\n\nObrigado por ultilizar :D");
 				printf("\n\n\t\t\t\t\t\t\t\t\t\tDesenvolvedor:");
-				printf("\n\t\t\t\t\t\t\t\t\t\tErick Frederick (ericodess) :D");
+				printf("\n\t\t\t\t\t\t\t\t\t\tErick Frederick (ericodesu) :D");
 				
 			break;
 			
