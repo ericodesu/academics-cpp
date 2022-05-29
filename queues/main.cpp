@@ -364,6 +364,6 @@ void aboutProgram() //Função que explica oque o programa faz e os desenvoledor
 		printf("\nProjeto Acadêmico visando simular uma Lista de Impressão, sem fins lucrativos, tendo em vista somente o aprendizado!");                                                                                                		
 		printf("\n\nObrigado por ultilizar :D");
 		printf("\n\n\t\t\t\t\t\t\t\t\t\tDesenvolvedores:");
-		printf("\n\t\t\t\t\t\t\t\t\t\tErick Frederick (ericodess) :D");
+		printf("\n\t\t\t\t\t\t\t\t\t\tErick Frederick (ericodesu) :D");
 		printf("\n\t\t\t\t\t\t\t\t\t\tMaurício Augusto");	
 }
